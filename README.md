@@ -3,6 +3,16 @@ rgb转gray, 保持对比度.
 
 
 
+##### 效果
+
+先上效果, 原理可以参考后面链接.
+
+![test1](https://github.com/yfor1008/decolor/blob/master/src/11.png?raw=true)
+
+![test2](https://github.com/yfor1008/decolor/blob/master/src/2.png?raw=true)
+
+
+
 ##### 参考
 
 1. http://www.cse.cuhk.edu.hk/~leojia/projects/color2gray/
